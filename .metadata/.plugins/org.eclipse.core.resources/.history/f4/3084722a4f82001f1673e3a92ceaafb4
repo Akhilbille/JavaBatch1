@@ -1,0 +1,12 @@
+package T1BasicPrograms;
+
+public class P3Variables {
+	//To store the data 
+	//Declare first then initialize
+	
+	//datatype variable = value;
+	
+	int number = 12;
+	
+
+}
